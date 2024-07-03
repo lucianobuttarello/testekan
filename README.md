@@ -1,8 +1,8 @@
-# Teste Luiza Labs
+# Teste Kan Cadastro de Beneficiarios
 
 ### Descrição do projeto
 
-O objetivo deste projeto realizar a leitura de 2 arquivos onde contem os pedidos e os mesmos serão armazenados em um Banco H2 e posteriormente serão exibidos via api conforme demanda.
+O objetivo desse serviço é Salvar no banco de dados informações do Beneficiario como nome, telefone data de nascimento e seus documentos.
 
 ### Pré-requisitos
 Antes de começar, certifique-se de que você tenha as seguintes dependências instaladas em seu ambiente de desenvolvimento:
